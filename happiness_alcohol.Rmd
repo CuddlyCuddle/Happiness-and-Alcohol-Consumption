@@ -1,0 +1,20 @@
+---
+title: "Happiness and Alcohol Consumption"
+output: html_document
+---
+
+```{r}
+```
+
+
+```{r}
+data <- read.csv("data/HappinessAlcoholConsumption.csv")
+
+```
+
+
+
+
+```{r}
+
+```
